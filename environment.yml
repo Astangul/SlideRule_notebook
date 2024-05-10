@@ -9,5 +9,5 @@ dependencies:
   - plotly
   - openpyxl
   - numpy
-  - ipykernel
+  - nbformat
 
