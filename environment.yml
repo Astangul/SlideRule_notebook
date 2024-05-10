@@ -6,3 +6,4 @@ dependencies:
   - xeus-python
   - pandas <2
   - bqplot
+  - plotly
