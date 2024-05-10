@@ -7,3 +7,7 @@ dependencies:
   - pandas <2
   - bqplot
   - plotly
+  - openpyxl
+  - numpy
+  - openpyxl
+
