@@ -9,4 +9,5 @@ dependencies:
   - plotly
   - openpyxl
   - numpy
+  - ipykernel
 
